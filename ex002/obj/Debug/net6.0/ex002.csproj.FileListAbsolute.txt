@@ -1,0 +1,15 @@
+C:\Обучение Аналитик\repo\lec1\ex002\bin\Debug\net6.0\ex002.exe
+C:\Обучение Аналитик\repo\lec1\ex002\bin\Debug\net6.0\ex002.deps.json
+C:\Обучение Аналитик\repo\lec1\ex002\bin\Debug\net6.0\ex002.runtimeconfig.json
+C:\Обучение Аналитик\repo\lec1\ex002\bin\Debug\net6.0\ex002.dll
+C:\Обучение Аналитик\repo\lec1\ex002\bin\Debug\net6.0\ex002.pdb
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ex002.csproj.AssemblyReference.cache
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ex002.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ex002.AssemblyInfoInputs.cache
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ex002.AssemblyInfo.cs
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ex002.csproj.CoreCompileInputs.cache
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ex002.dll
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\refint\ex002.dll
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ex002.pdb
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ex002.genruntimeconfig.cache
+C:\Обучение Аналитик\repo\lec1\ex002\obj\Debug\net6.0\ref\ex002.dll
