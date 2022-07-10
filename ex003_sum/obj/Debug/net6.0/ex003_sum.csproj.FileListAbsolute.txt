@@ -1,0 +1,15 @@
+C:\Обучение Аналитик\repo\lec1\ex003_sum\bin\Debug\net6.0\ex003_sum.exe
+C:\Обучение Аналитик\repo\lec1\ex003_sum\bin\Debug\net6.0\ex003_sum.deps.json
+C:\Обучение Аналитик\repo\lec1\ex003_sum\bin\Debug\net6.0\ex003_sum.runtimeconfig.json
+C:\Обучение Аналитик\repo\lec1\ex003_sum\bin\Debug\net6.0\ex003_sum.dll
+C:\Обучение Аналитик\repo\lec1\ex003_sum\bin\Debug\net6.0\ex003_sum.pdb
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ex003_sum.csproj.AssemblyReference.cache
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ex003_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ex003_sum.AssemblyInfoInputs.cache
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ex003_sum.AssemblyInfo.cs
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ex003_sum.csproj.CoreCompileInputs.cache
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ex003_sum.dll
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\refint\ex003_sum.dll
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ex003_sum.pdb
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ex003_sum.genruntimeconfig.cache
+C:\Обучение Аналитик\repo\lec1\ex003_sum\obj\Debug\net6.0\ref\ex003_sum.dll
